@@ -1,44 +1,23 @@
 
 <h1 align="center"><b>Hi , I'm Felipe Piva </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!--  -->A
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Developer and Artist,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
-</p>
 
-
-<br>
-
-
-
-	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
-
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
-
-<br>
-
-- A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
-- Personal website [link](https://www.looug.com)
-
-<br><br>
+<picture> <img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 <ul dir="auto">
 <li>
-<p dir="auto">🔭 I’m currently working on <a href="https://www.udemy.com/user/emmanuel-tweneboah-2/" rel="nofollow">React Redux Bootcamp course</a></p>
+<p dir="auto">🔭 I’m currently working on my new carrer at <a href="https://www.looug.com" rel="nofollow">Looug Tech</a></p>
 </li>
 <li>
-<p dir="auto">👨‍💻 All of my projects are available at <a href="https://www.udemy.com/user/emmanuel-tweneboah-2/" rel="nofollow">https://www.udemy.com/user/emmanuel-tweneboah-2/</a></p>
+<p dir="auto">👨‍💻 All of my projects are available at <a href="" rel="nofollow">https://www.instagram.com/loougtech/</a></p>
 </li>
 <li>
 <p dir="auto"><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> Ask me about <strong>React, Redux, Node js, Expressjs, Mongodb, mongoose, Javascript, TypeScript, MERN Stack, HTML/CSS</strong></p>
 </li>
 <li>
-<p dir="auto">📫 How to reach me <strong><a href="mailto:e.tweneboah1@gmail.com">e.tweneboah1@gmail.com</a></strong></p>
+<p dir="auto">📫 How to reach me <strong><a href="mailto:piva@looug.com">piva@looug.com</a></strong></p>
 </li>
 <li>
-<p dir="auto"><g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡</g-emoji> Fun fact <strong>Am mostly funny</strong></p>
+<p dir="auto"><g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡</g-emoji><strong> Developer and Artist</strong></p>
 </li>
 </ul>
 <h3 dir="auto" align="left"><a id="user-content-connect-with-me" class="anchor" aria-hidden="true" href="#connect-with-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>Connect with me:</h3>
