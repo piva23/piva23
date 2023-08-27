@@ -5,19 +5,19 @@
 
 <ul dir="auto">
 <li>
-<p dir="auto">🔭 I’m currently working on my new carrer at <a href="https://www.looug.com" rel="nofollow">Looug Tech</a></p>
+<p dir="auto">🔭 I’m currently working on my new Project at <a href="https://www.looug.com" rel="nofollow">Looug Tech</a></p>
 </li>
 <li>
-<p dir="auto">👨‍💻 All of my projects are available at <a href="" rel="nofollow">https://www.instagram.com/loougtech/</a></p>
+<p dir="auto">👨‍💻 All of my projects are available at <a href="" rel="nofollow">https://www.looug.com/</a></p>
 </li>
 <li>
-<p dir="auto"><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> Ask me about <strong>React, Redux, Node js, Expressjs, Mongodb, mongoose, Javascript, TypeScript, MERN Stack, HTML/CSS</strong></p>
+<p dir="auto"><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> I really wish you find <strong>your path</strong></p>
 </li>
 <li>
 <p dir="auto">📫 How to reach me <strong><a href="mailto:piva@looug.com">piva@looug.com</a></strong></p>
 </li>
 <li>
-<p dir="auto"><g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡</g-emoji><strong> Developer and Artist</strong></p>
+<p dir="auto"><g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡</g-emoji><strong> Developer, Artist and a Worker</strong></p>
 </li>
 </ul>
 
